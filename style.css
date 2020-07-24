@@ -13,6 +13,11 @@ nav a {
   background-color: grey;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 14px;
+}
+
 section#details {
   background-color: red;
 }

@@ -13,9 +13,10 @@ nav a {
   background-color: grey;
 }
 
-section#featured-property {
-  text-align: center;
-  display: inline-block;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {

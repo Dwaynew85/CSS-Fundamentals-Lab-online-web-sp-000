@@ -25,6 +25,7 @@ p {
   font-size: 12px;
   width: 800px;
   text-align: center;
+  border-color: black;
 }
 section#details {
   background-color: red;

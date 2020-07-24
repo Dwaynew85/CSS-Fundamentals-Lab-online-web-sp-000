@@ -22,6 +22,7 @@ img {
 p {
   font-size: 12px;
   width: 800px;
+  text-align: center;
 }
 section#details {
   background-color: red;

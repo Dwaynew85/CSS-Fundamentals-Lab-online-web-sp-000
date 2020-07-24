@@ -16,6 +16,7 @@ a {
 section#featured-property {
   text-align: center;
   display: inline-block;
+  font-size: 10px;
 }
 
 section#details {

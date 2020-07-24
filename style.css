@@ -22,9 +22,9 @@ section#featured-property p {
   text-align: center;
 }
 section#details {
-  background-color: red;
   display: block;
 }
 section#details div {
   float: left;
-}
+  background-color: red;
+} 

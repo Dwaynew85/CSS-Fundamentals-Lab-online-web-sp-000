@@ -23,4 +23,5 @@ section#featured-property p {
 }
 section#details {
   background-color: red;
+  display: block;
 }

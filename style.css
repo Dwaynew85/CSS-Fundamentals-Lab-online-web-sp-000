@@ -4,5 +4,6 @@ body {
   margin: 0;
 }
 header, section #featured-property {
-  align: center;
+  text-align: center;
+  display: inline-block;
 }

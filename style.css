@@ -20,6 +20,7 @@ section#featured-property {
 
 p {
   font-size: 12px;
+  width: 800px;
 }
 section#details {
   background-color: red;

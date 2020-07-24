@@ -9,4 +9,5 @@ header {
 
 section#featured-property {
   text-align: center;
+  display: inline-block;
 }

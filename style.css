@@ -21,11 +21,10 @@ img {
   margin-right: auto;
 }
 
-p {
+section#featured-property p {
   font-size: 12px;
   width: 800px;
   text-align: center;
-  background-color: black;
 }
 section#details {
   background-color: red;
